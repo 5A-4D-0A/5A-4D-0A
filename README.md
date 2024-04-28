@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zain
+- 👋 Hello, I’m Zain
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security tools, Python, SQL
 - 📫 How to reach me ...
